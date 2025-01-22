@@ -7,7 +7,7 @@ function test(){
     // linux下不需要携带任何参数
     $rsa->create();
 }
-```
+``` 
 ### 加密解密数据
 ```php
 function crypto(){

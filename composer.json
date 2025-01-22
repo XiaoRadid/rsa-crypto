@@ -7,10 +7,10 @@
             "name": "aibayanyu",
             "email": "aibayanyu@qq.com"
         }
-    ], 
+    ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.0",
         "ext-openssl": "*"
     },
     "type": "library",

@@ -1,7 +1,7 @@
 ### RSA 数据加密解密方法
 ```php
 function test(){
-    $rsa = new \aibayanyu\rsa\RSA();
+    $rsa = new \xiaoradid\rsa\RSA();
     // win下需要自己携带openssl.cnf
     $rsa->create("C:\usr\local\ssl\openssl.cnf");
     // linux下不需要携带任何参数
@@ -11,7 +11,7 @@ function test(){
 ### 加密解密数据
 ```php
 function crypto(){
-    $pk = new \aibayanyu\rsa\Crypto("public_key","private_key");
+    $pk = new \xiaoradid\rsa\Crypto("public_key","private_key");
     $str = "ssss";
     dump("字符串");
     dump($str);

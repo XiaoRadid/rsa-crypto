@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "5.* || 7.*",
+        "php": ">=7.0",
         "ext-openssl": "*"
     },
     "type": "library",
@@ -19,5 +19,4 @@
             "xiaoradid\\rsa\\": "src/"
         }
     },
-    "version": "1.0.0"
 }

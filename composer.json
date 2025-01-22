@@ -18,5 +18,5 @@
         "psr-4": {
             "xiaoradid\\rsa\\": "src/"
         }
-    },
+    }
 }

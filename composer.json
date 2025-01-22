@@ -7,7 +7,7 @@
             "name": "aibayanyu",
             "email": "aibayanyu@qq.com"
         }
-    ],
+    ], 
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
